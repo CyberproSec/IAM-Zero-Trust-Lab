@@ -1,2 +1,28 @@
-# IAM-Zero-Trust-Lab
-This project demonstrates the implementation of Microsoft Entra ID for user management, Role-Based Access Control (RBAC) for granular resource security, and Conditional Access for enforcing Multi-Factor Authentication (MFA).
+## Enterprise Identity Governance & Zero Trust Architecture
+
+
+Phase 1: Identity Governance & Attribute-Based Access Control (ABAC) 
+(Completed) ████████████████████ 100%
+
+Focus: Automated Identity Lifecycle Management, Dynamic Membership Rules, and UPN standardization.
+
+Phase 2: Adaptive Security & Conditional Access Policy Design 
+(In Progress) ▓▓░░░░░░░░░░░░░░░░░░ 10%
+
+Focus: Signal-based enforcement, MFA registration campaigns, and Geo-Blocking Named Locations.
+
+Phase 3: Privileged Identity Management (PIM) & Just-In-Time (JIT) Elevation 
+(Not Started) ░░░░░░░░░░░░░░░░░░░░ 0%
+
+Focus: Reducing standing access, approval workflows for highly privileged roles, and audit trails.
+
+Phase 4: B2B Collaboration & External Identity Security 
+(Not Started) ░░░░░░░░░░░░░░░░░░░░ 0%
+
+Focus: Cross-tenant access settings, guest user lifecycle, and external identity provider (IdP) security.
+
+Phase 5: Security Operations (SecOps) & Compliance Auditing 
+(Not Started) ░░░░░░░░░░░░░░░░░░░░ 0%
+
+Focus: SIEM/Log Analytics integration, KQL-based threat hunting, and automated Access Reviews.
+
